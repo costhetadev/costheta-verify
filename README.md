@@ -7,4 +7,4 @@ signature (RFC 8032) and the ML-DSA signature (FIPS 204), against the
 public keys published at costheta.dev/keys.
 
 Code lands here at launch. The certificate format is specified in the
-federation proposal: https://github.com/costheta/federation-proposal
+federation proposal: https://github.com/costhetadev/federation-proposal
